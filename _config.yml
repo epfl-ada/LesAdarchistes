@@ -8,6 +8,9 @@
 # 7. Site settings
 # 8. Site favicons & manifest icons
 # 9. Site navigation
+baseurl: "/ada2026-ada-2026-project-group-20"
+url: "https://epfl-ada.github.io"
+
 
 # 1. Files excluded from Jekyll builds
 exclude:
